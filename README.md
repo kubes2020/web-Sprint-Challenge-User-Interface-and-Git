@@ -16,6 +16,8 @@ You have three hours to complete this challenge. Plan your time accordingly.
 
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons and your project manager.
 
+
+
 ## Description
 
 In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and create an additional page (About) which will link from the navigation you created.
@@ -23,6 +25,9 @@ In this challenge, you build a missing header (navigation and image) on the home
 In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home and about pages (found in the design-files folder):
 
 [Click here for the home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
+
+
+
 
 [Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
 
@@ -34,13 +39,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML explains english language to the browser and screen readers...gives it more meaning than a div.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Iline doesn't take up the whole line, only takes up what it needs to. Block takes up the whole line and the size can be altered.
 
 3. What are the 4 areas of the box model?
 
+content edge, padding, border, margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+It keeps a running copy of all changes and everyone can work on their own branch without messing up the main code.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -97,6 +112,11 @@ You will also notice there are 10 boxes on the home page that need background co
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
 Note: Please make sure you are using flexbox to layout your website. Floats, inline-block, tables, etc, should not be used for layout. 
+
+
+
+
+
 
 ## Stretch Problems
 
