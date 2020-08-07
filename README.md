@@ -16,6 +16,12 @@ You have three hours to complete this challenge. Plan your time accordingly.
 
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons and your project manager.
 
+
+
+---------------------------------------------
+
+
+
 ## Description
 
 In this challenge, you build a missing header (navigation and image) on the home page, update some CSS styling on the home page, and create an additional page (About) which will link from the navigation you created.
@@ -97,6 +103,11 @@ You will also notice there are 10 boxes on the home page that need background co
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
 Note: Please make sure you are using flexbox to layout your website. Floats, inline-block, tables, etc, should not be used for layout. 
+
+
+
+
+
 
 ## Stretch Problems
 
